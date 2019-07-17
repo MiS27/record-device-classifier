@@ -1,6 +1,6 @@
-# Data set description
-Data set is not available in repository.
-Data set contained two sets of wave files: A and B. Each set contained 500 files numbered from 1 to 500.
+# Dataset description
+Dataset is not available in repository.
+Dataset contained two sets of wave files: A and B. Each set contained 500 files numbered from 1 to 500.
 Each file was a 4-second long recording. Files in each set were recorded using different device, in different conditions.
 
 # Task
